@@ -19,7 +19,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target,sta
 4.8,4.1,1.5,0.4,setosa,Karnataka
 4.8,3.6,1.3,0.3,setosa,Karnataka
 6.2,2.8,6.1,2.2,virginica,Karnataka
-7.7,3.1,4.9,2.3,virginica,Karnataka
+7.7,3.1,4.9,2.3,virginica,Karnataka 
 4.9,3.9,1.5,0.2,setosa,Karnataka
 6.7,2.2,3.9,1.6,versicolor,Karnataka
 5.8,2.7,5.1,1.7,versicolor,Karnataka

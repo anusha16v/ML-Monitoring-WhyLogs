@@ -6,7 +6,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target
 0,0,0,0,virginica
 0,0,0,0,versicolor
 0,0,0,0,virginica
-0,0,0,0,virginica
+0,0,0,0,virginica 
 0,0,0,0,setosa
 0,0,0,0,virginica
 0,0,0,0,virginica

@@ -11,7 +11,7 @@ sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target
 6.7,2.9,5.5,2.0,virginica
 5.9,3.4,1.5,0.1,setosa
 5.8,2.9,3.9,1.5,versicolor
-5.9,3.0,5.5,1.4,versicolor
+5.9,3.0,5.5,1.4,versicolor  
 4.8,3.9,1.7,0.2,setosa
 6.6,2.6,4.3,1.7,versicolor
 5.3,3.4,1.7,0.1,setosa
